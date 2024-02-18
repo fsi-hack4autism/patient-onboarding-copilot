@@ -26,4 +26,4 @@ Note: Create all projects in a folder under https://github.com/fsi-hack4autism/p
 * Focus is on retrieving data using a copilot
   * This module will summarize the patient data for the BCBA
   * The copilot will assist through various interfaces - summary reports, chatbots, images & screenshots, video snippets, etc.
-Note: Create all projects in a folder under https://github.com/fsi-hack4autism/therapy-session-copilot/tree/main/copilot
+Note: Create all projects in a folder under https://github.com/fsi-hack4autism/patient-onboarding-copilot/tree/main/copilot
