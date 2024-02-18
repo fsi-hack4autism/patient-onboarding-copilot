@@ -1,4 +1,4 @@
-# patient-onboarding-copilot
+# Patient Onboarding Copilot
 This repository is hosted as a part of FSI Hackathon for Autism (https://github.com/fsi-hack4autism)
 
 ## Objective: Help BCBA onboard a new patient quickly
