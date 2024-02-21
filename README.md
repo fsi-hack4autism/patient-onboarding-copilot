@@ -15,6 +15,9 @@ Typically, a BCBA gets limited amount of time to onboard a new patient and this 
 * It will allow tracking documents and provide a platform for storing consents, authorizations, etc.
 * It can generate a summarization of the new patient for the BCBA to review
 
+### Architecture
+![Patient Onboarding Architecture](patient-onboarding-arch.PNG)
+
 ## Code repository setup
 This repository will host multiple code bases to make it easy for patient to onboard to a new BCBA (Board Certified Behavioral Analyst). Largely, the repository will contain projects in the following areas:
 ### Onboarding tasks
